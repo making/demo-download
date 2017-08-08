@@ -1,0 +1,3 @@
+CREATE TABLE demo (
+  id INT PRIMARY KEY
+);
